@@ -114,7 +114,6 @@ class Reflector
 
         $dependencies = [];
         foreach ($method->getParameters() as $index => $parameter) {
-
             try {
                 $class = $parameter->getClass();
             } catch (ReflectionException $exception) {
