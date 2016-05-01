@@ -1,5 +1,5 @@
 {
-    "name": "madsen/taupe",
+    "name": "ofmadsen/taupe",
     "type": "library",
     "description": "Dependency Injector for PHP",
     "keywords": ["di", "ioc"],
